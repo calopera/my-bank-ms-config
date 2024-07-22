@@ -7,7 +7,7 @@ spring:
     version: "v0.0.2"
 
 support:
-  message: "Bienvenidos al sistema de clientes bancarios de Accenture - Sistema en producción | RABBITMQ"
+  message: "Bienvenidos al sistema de clientes bancarios de Accenture - Sistema en producción | RABBITMQ MODIFICADO"
   contactInfo:
     name: "PRD"
     email: "product.tester@prueba_prd.com"
